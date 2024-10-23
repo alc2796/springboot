@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="G:\Archivos de programa\Java\jdk-1.8" version="1.8.0_411">
+        <bootpath>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\resources.jar"/>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\rt.jar"/>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\jsse.jar"/>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\jce.jar"/>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\charsets.jar"/>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\jfr.jar"/>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="G:\Archivos de programa\Java\jdk-1.8\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="G:\Archivos de programa\Eclipse\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre" version="17.0.10"/>
+    <libraryInfo home="G:\Archivos de programa\Eclipse\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143" version="17.0.10"/>
+</libraryInfos>
